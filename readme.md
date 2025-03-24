@@ -94,5 +94,5 @@ Players use GOLD to attack the Tower (reducing stability) or defend their stake.
 - **Balances Cooperation/Competition**: Encourages strategic diversity.
 - **Long-Term Engagement**: Persistent NFTs and governance retain players across rounds.
 
-This design leverages blockchain’s strengths (transparency, programmable incentives) while learning from past exploits. Would you like to expand on any mechanics?
+This design leverages blockchain’s strengths (transparency, programmable incentives) while learning from past exploits.
 
