@@ -1,10 +1,3 @@
-
-# design a new game based on the research so far
-
-Based on the Fomo3D case study and blockchain/game theory research, here’s a concept for a new decentralized game that improves on Fomo3D’s mechanics while addressing its vulnerabilities:
-
----
-
 ## **Game Title**: *Tower of Babel*
 
 *A hybrid of cooperative/competitive blockchain strategy game with dynamic risk-reward tiers.*
